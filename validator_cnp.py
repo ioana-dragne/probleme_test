@@ -20,5 +20,5 @@ if (len(cnp) == 13
       or
       (int(cnp[3:5]) == 2 and int(cnp[5:7]) < 30)):
     print("CNP valid")
-  else:
-    print("CNP invalid")
+else:
+  print("CNP invalid")
